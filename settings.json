@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "One Monokai",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.5,
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "telemetry.telemetryLevel": "off",
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.showReleaseNotes": false,
+    "json.schemaDownload.enable": false,
+    "settingsSync.keybindingsPerPlatform": false,
+    "npm.fetchOnlinePackageInfo": false,
+    "editor.fontWeight": "500",
+    "window.zoomLevel": 1.0,
+    "editor.fontLigatures": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "explorer.confirmDelete": false,
+    "window.menuBarVisibility": "toggle",
+    
+    "workbench.colorCustomizations": {
+        "[Name of the Current Theme you are using]": {
+            "titleBar.activeBackground": "#191919cc",
+            "titleBar.activeForeground":"#ffffff",
+        },
+    },
+    "window.titleBarStyle": "custom",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "editor.scrollbar.verticalScrollbarSize": 8,
+    "vscode_custom_css.imports": ["file:///home/username/Documents/Github/custom-vscode/custom.css"]
+}

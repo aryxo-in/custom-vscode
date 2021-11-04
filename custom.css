@@ -1,0 +1,30 @@
+.tabs-and-actions-container{
+  zoom: 0.85;
+  font-weight: 500;
+  font-family: 'JetBrains Mono', 'Courier New', Courier, monospace !important;
+}
+
+.tabs-breadcrumbs {
+  zoom: 0.8;
+  font-weight: 500;
+  font-family: 'JetBrains Mono', 'Courier New', Courier, monospace !important;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  background-color: rgb(40 44 52);
+}
+
+.scroll-decoration{
+  display: none;
+}
+
+body > div.file-icons-enabled.monaco-workbench.linux.chromium.nopanel.vs-dark.azemoh-one-monokai-themes-OneMonokai-color-theme-json > div.monaco-grid-view > div > div > div.monaco-scrollable-element > div.split-view-container > div:nth-child(3) > div > div > div.monaco-scrollable-element > div.split-view-container > div:nth-child(2){
+  font-weight: 500;
+  font-size: 8px;
+  font-family: 'JetBrains Mono', 'Courier New', Courier, monospace !important;
+}
+
+#workbench\.view\.explorer > div > div > div.monaco-scrollable-element > div.split-view-container > div:nth-child(1) > div > div.pane-body > div.explorer-folders-view.file-icon-themable-tree.show-file-icons > div {
+  font-size: 12px;
+  font-weight: 400;
+}
+
